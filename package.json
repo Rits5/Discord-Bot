@@ -1,0 +1,26 @@
+{
+  "name": "Discord-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .\\bot.js",
+    "dev": "nodemon .\\bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rits5/Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rits5/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Rits5/Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
