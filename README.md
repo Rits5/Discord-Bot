@@ -1,1 +1,3 @@
-# Discord-Bot
+# A Discord Bot
+
+- Currently being developed
